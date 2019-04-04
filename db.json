@@ -22,25 +22,5 @@
 		"title": "The Machinist",
 		"image": "https://api.androidhive.info/json/movies/5.jpg"
 
-	},
-	{
-		"title": "The Last Samurai",
-		"image": "https://api.androidhive.info/json/movies/6.jpg"
-
-	},
-	{
-		"title": "The Amazing Spider-Man 2",
-		"image": "https://api.androidhive.info/json/movies/7.jpg"
-
-	},
-	{
-		"title": "Tangled",
-		"image": "https://api.androidhive.info/json/movies/8.jpg"
-
-	},
-	{
-		"title": "Rush",
-		"image": "https://api.androidhive.info/json/movies/9.jpg"
-
 	}
 ]
