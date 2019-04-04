@@ -1,26 +1,45 @@
-{"widget": {
-    "debug": "on",
-    "window": {
-        "title": "Sample Konfabulator Widget",
-        "name": "main_window",
-        "width": 500,
-        "height": 500
+[{
+        "title": "Dawn of the Planet of the Apes",
+        "image": "https://api.androidhive.info/json/movies/1.jpg",
+       
     },
-    "image": { 
-        "src": "Images/Sun.png",
-        "name": "sun1",
-        "hOffset": 250,
-        "vOffset": 250,
-        "alignment": "center"
+    {
+        "title": "District 9",
+        "image": "https://api.androidhive.info/json/movies/2.jpg",
+     
     },
-    "text": {
-        "data": "Click Here",
-        "size": 36,
-        "style": "bold",
-        "name": "text1",
-        "hOffset": 250,
-        "vOffset": 100,
-        "alignment": "center",
-        "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
-    }
-}} 
+    {
+        "title": "Transformers: Age of Extinction",
+        "image": "https://api.androidhive.info/json/movies/3.jpg",
+    
+    },
+    {
+        "title": "X-Men: Days of Future Past",
+        "image": "https://api.androidhive.info/json/movies/4.jpg",
+     
+    },
+    {
+        "title": "The Machinist",
+        "image": "https://api.androidhive.info/json/movies/5.jpg",
+     
+    },
+    {
+        "title": "The Last Samurai",
+        "image": "https://api.androidhive.info/json/movies/6.jpg",
+      
+    },
+    {
+        "title": "The Amazing Spider-Man 2",
+        "image": "https://api.androidhive.info/json/movies/7.jpg",
+    
+    },
+    {
+        "title": "Tangled",
+        "image": "https://api.androidhive.info/json/movies/8.jpg",
+     
+    },
+    {
+        "title": "Rush",
+        "image": "https://api.androidhive.info/json/movies/9.jpg",
+     
+    }]
